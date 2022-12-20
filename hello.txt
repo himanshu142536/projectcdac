@@ -1,0 +1,2 @@
+Now it's a new file , were we write different things and
+get it through git.
