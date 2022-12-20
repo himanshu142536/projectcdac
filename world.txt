@@ -1,2 +1,5 @@
 Hello everyone i am new to this git softare . i will learn it.
 user 01 is changing file
+
+world of user 2
+again change done by user 2 
