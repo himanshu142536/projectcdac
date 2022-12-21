@@ -1,0 +1,4 @@
+Now it's a new file , were we write different things and
+get it through git. 
+
+now things are working for user2
